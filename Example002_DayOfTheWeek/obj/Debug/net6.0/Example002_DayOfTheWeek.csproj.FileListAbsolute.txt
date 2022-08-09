@@ -1,0 +1,5 @@
+C:\Users\Денис\Desktop\GeekBrains\3. Введение в программирование\Занятие_1\Homework\Example002_DayOfTheWeek\obj\Debug\net6.0\Example002_DayOfTheWeek.csproj.AssemblyReference.cache
+C:\Users\Денис\Desktop\GeekBrains\3. Введение в программирование\Занятие_1\Homework\Example002_DayOfTheWeek\obj\Debug\net6.0\Example002_DayOfTheWeek.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Денис\Desktop\GeekBrains\3. Введение в программирование\Занятие_1\Homework\Example002_DayOfTheWeek\obj\Debug\net6.0\Example002_DayOfTheWeek.AssemblyInfoInputs.cache
+C:\Users\Денис\Desktop\GeekBrains\3. Введение в программирование\Занятие_1\Homework\Example002_DayOfTheWeek\obj\Debug\net6.0\Example002_DayOfTheWeek.AssemblyInfo.cs
+C:\Users\Денис\Desktop\GeekBrains\3. Введение в программирование\Занятие_1\Homework\Example002_DayOfTheWeek\obj\Debug\net6.0\Example002_DayOfTheWeek.csproj.CoreCompileInputs.cache
